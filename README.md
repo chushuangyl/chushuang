@@ -25,5 +25,5 @@
 ---
 
 ## 📮 联系我  
-- 邮箱：your_email@example.com  
+- 邮箱：
 - GitHub主页：[点击访问](https://github.com/chushuangyl)  
